@@ -1,6 +1,6 @@
-a = int(input())
-b = int(input())
-print(a + b)
+def add_num(a, b):
+    return a + b
+
 
 
 
